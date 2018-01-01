@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-
 	"github.com/disintegration/imaging"
 )
 
